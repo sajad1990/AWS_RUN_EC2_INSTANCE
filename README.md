@@ -1,4 +1,4 @@
-# AWS_RUN_EC2_INSTANCE
+# AWS_lunch_EC2_INSTANCE & connect
 we will lunch a ec2 instance and step by step connect to it throw ssh
 
 1:Open the EC2 dashboard on the AWS Management Console.
